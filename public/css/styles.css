@@ -6,6 +6,10 @@ body, h1, h2, h3, ul, li, a {
     text-decoration: none;
 }
 
+.s1{
+    text-align: center;
+}
+
 /* Estilização do header */
 header {
     background-color: #333;
@@ -44,6 +48,10 @@ nav a:hover {
 /* Estilo do conteúdo principal */
 main {
     padding: 2rem;
+}
+
+footer {
+    text-align: center;
 }
 
 /* Estilo para ocultar elementos */
